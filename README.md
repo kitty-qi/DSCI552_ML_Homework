@@ -1,7 +1,7 @@
 # DSCI552_ML_Homework
 
 ## Introduction
-There were eight assignments in DSCI552.
+
 | Homework # | Topic                                                        | Relative Algorithm                 | Dataset                                                      |
 | :--------: | ------------------------------------------------------------ | ---------------------------------- | ------------------------------------------------------------ |
 |     1      |                                                              | KNN                                | [Vertebral Column Data Set](http://archive.ics.uci.edu/ml/datasets/vertebral+column#) |
